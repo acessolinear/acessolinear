@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acessolinear&label=Profile%20views&color=0e75b6&style=flat" alt="acessolinear" /> </p>
 
+Bem vindo!! Este é o nosso perfil, onde você irá saber mais um pouco sobre nós e é aqui também onde você encontra os nossos desafios!! 🦸‍♂️
+
+
+<p align="left">Para acessar a área de desafios, <a href="https://github.com/acessolinear/programador-desafios" target="blank">CliqueAqui</a></p>
+  
+Abaixo algumas de nossas soluções e mais sobre nós. 😁
 - 🔭 Software de Gestão [ERP Linear](https://linearsistemas.com.br/erp-linear/)
 
 - 📫 Módulo WMS [WMS Linear](https://linearsistemas.com.br/wms/)
