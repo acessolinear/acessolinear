@@ -15,7 +15,7 @@ Abaixo algumas de nossas soluções e mais sobre nós. 😁
 
 - 🤝 Frente de Loja [PDV Linear](https://linearsistemas.com.br/pdv-linear/)
 
-- 💬 Contato **https://linearsistemas.com.br/contato/**
+- 💬 [Contato](https://linearsistemas.com.br/contato/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
